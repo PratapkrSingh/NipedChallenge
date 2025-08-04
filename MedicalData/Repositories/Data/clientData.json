@@ -1,0 +1,264 @@
+{
+  "clients": [
+    {
+      "id": "C001",
+      "name": "John Doe",
+      "dateOfBirth": "1980-05-14",
+      "gender": "Male",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 210,
+            "hdl": 50,
+            "ldl": 130
+          },
+          "bloodSugar": 95,
+          "bloodPressure": {
+            "systolic": 130,
+            "diastolic": 85
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 90,
+          "sleepQuality": "6 hours, frequent disturbances",
+          "stressLevels": "Moderate self-reported stress",
+          "dietQuality": "Processed or high-sugar diet"
+        }
+      }
+    },
+    {
+      "id": "C002",
+      "name": "Jane Smith",
+      "dateOfBirth": "1992-08-22",
+      "gender": "Female",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 180,
+            "hdl": 60,
+            "ldl": 100
+          },
+          "bloodSugar": 85,
+          "bloodPressure": {
+            "systolic": 120,
+            "diastolic": 80
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 160,
+          "sleepQuality": "7 hours, restful sleep",
+          "stressLevels": "Low self-reported stress",
+          "dietQuality": "Balanced, nutrient-rich diet"
+        }
+      }
+    },
+    {
+      "id": "C003",
+      "name": "Emily Johnson",
+      "dateOfBirth": "1973-11-05",
+      "gender": "Female",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 250,
+            "hdl": 35,
+            "ldl": 150
+          },
+          "bloodSugar": 110,
+          "bloodPressure": {
+            "systolic": 140,
+            "diastolic": 90
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 60,
+          "sleepQuality": "5 hours, frequent disturbances",
+          "stressLevels": "High chronic stress affecting well-being",
+          "dietQuality": "Poor nutrition with deficiencies"
+        }
+      }
+    },
+    {
+      "id": "C004",
+      "name": "Michael Brown",
+      "dateOfBirth": "1997-02-10",
+      "gender": "Male",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 190,
+            "hdl": 55,
+            "ldl": 120
+          },
+          "bloodSugar": 90,
+          "bloodPressure": {
+            "systolic": 118,
+            "diastolic": 78
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 200,
+          "sleepQuality": "8 hours, restful sleep",
+          "stressLevels": "Low self-reported stress",
+          "dietQuality": "Balanced, nutrient-rich diet"
+        }
+      }
+    },
+    {
+      "id": "C005",
+      "name": "Sophia Davis",
+      "dateOfBirth": "1986-07-18",
+      "gender": "Female",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 220,
+            "hdl": 45,
+            "ldl": 135
+          },
+          "bloodSugar": 100,
+          "bloodPressure": {
+            "systolic": 128,
+            "diastolic": 83
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 130,
+          "sleepQuality": "6.5 hours, mild disturbances",
+          "stressLevels": "Moderate self-reported stress",
+          "dietQuality": "Processed or high-sugar diet"
+        }
+      }
+    },
+    {
+      "id": "C006",
+      "name": "James Wilson",
+      "dateOfBirth": "1965-03-25",
+      "gender": "Male",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 260,
+            "hdl": 40,
+            "ldl": 155
+          },
+          "bloodSugar": 130,
+          "bloodPressure": {
+            "systolic": 145,
+            "diastolic": 95
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 40,
+          "sleepQuality": "4.5 hours, severe sleep issues",
+          "stressLevels": "High chronic stress affecting well-being",
+          "dietQuality": "Poor nutrition with deficiencies"
+        }
+      }
+    },
+    {
+      "id": "C007",
+      "name": "Laura Martinez",
+      "dateOfBirth": "1995-09-30",
+      "gender": "Female",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 185,
+            "hdl": 58,
+            "ldl": 110
+          },
+          "bloodSugar": 92,
+          "bloodPressure": {
+            "systolic": 122,
+            "diastolic": 79
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 170,
+          "sleepQuality": "7.5 hours, restful sleep",
+          "stressLevels": "Low self-reported stress",
+          "dietQuality": "Balanced, nutrient-rich diet"
+        }
+      }
+    },
+    {
+      "id": "C008",
+      "name": "Daniel Lee",
+      "dateOfBirth": "1981-12-11",
+      "gender": "Male",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 230,
+            "hdl": 48,
+            "ldl": 140
+          },
+          "bloodSugar": 115,
+          "bloodPressure": {
+            "systolic": 135,
+            "diastolic": 87
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 80,
+          "sleepQuality": "6 hours, mild disturbances",
+          "stressLevels": "Moderate self-reported stress",
+          "dietQuality": "Processed or high-sugar diet"
+        }
+      }
+    },
+    {
+      "id": "C009",
+      "name": "Olivia White",
+      "dateOfBirth": "1989-04-07",
+      "gender": "Female",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 195,
+            "hdl": 52,
+            "ldl": 115
+          },
+          "bloodSugar": 89,
+          "bloodPressure": {
+            "systolic": 124,
+            "diastolic": 81
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 150,
+          "sleepQuality": "7 hours, restful sleep",
+          "stressLevels": "Low self-reported stress",
+          "dietQuality": "Balanced, nutrient-rich diet"
+        }
+      }
+    },
+    {
+      "id": "C010",
+      "name": "William Carter",
+      "dateOfBirth": "1974-06-14",
+      "gender": "Male",
+      "medicalData": {
+        "bloodwork": {
+          "cholesterol": {
+            "total": 240,
+            "hdl": 42,
+            "ldl": 145
+          },
+          "bloodSugar": 125,
+          "bloodPressure": {
+            "systolic": 138,
+            "diastolic": 89
+          }
+        },
+        "questionnaire": {
+          "exerciseWeeklyMinutes": 55,
+          "sleepQuality": "5 hours, frequent disturbances",
+          "stressLevels": "High chronic stress affecting well-being",
+          "dietQuality": "Poor nutrition with deficiencies"
+        }
+      }
+    }
+  ]
+}

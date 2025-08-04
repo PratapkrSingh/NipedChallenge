@@ -1,0 +1,6 @@
+@MedicalData_HostAddress = http://localhost:5076
+
+GET {{MedicalData_HostAddress}}/Report/
+Accept: application/json
+
+###
